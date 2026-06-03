@@ -370,7 +370,6 @@ st.markdown("""
       <span class="chip">100+ Companies Benchmarked</span>
       <span class="chip">10+ Regression Models Evaluated</span>
       <span class="chip">Operational + Financial Indicators</span>
-      <span class="chip">Ensemble ML Driven Risk Analytics</span>
     </div>
   </div>
   <div class="stat-card">
