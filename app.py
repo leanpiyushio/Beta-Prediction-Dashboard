@@ -360,7 +360,7 @@ div[data-testid="stButton"] > button:active {
 st.markdown("""
 <div class="hero-wrap">
   <div class="hero-left">
-    <h1 class="hero-title">SME<br> Beta Prediction</em> Dashboard</h1>
+    <h1 class="hero-title">SME</em>Beta Prediction</em></br>Dashboard</h1>
     <p class="hero-sub">
       Predict unlevered beta using ensemble machine learning models<br>trained on
       financial structure, profitability, operational efficiency, and working
