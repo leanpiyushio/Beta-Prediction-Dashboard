@@ -56,7 +56,7 @@ section[data-testid="stMain"] > div {
 }
 
 .hero-title em {
-    font-style: italic;
+    font-style: normal;
     color: #34d399;
 }
 
