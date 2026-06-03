@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 st.set_page_config(
-    page_title="SME Capital Risk Intelligence",
+    page_title="SME Beta Prediction",
     page_icon="180.png",
     layout="wide"
 )
@@ -360,7 +360,7 @@ div[data-testid="stButton"] > button:active {
 st.markdown("""
 <div class="hero-wrap">
   <div class="hero-left">
-    <h1 class="hero-title">SME Capital<br><em>Risk Intelligence</em></h1>
+    <h1 class="hero-title">SME<br><em>Beta Prediction</em></h1>Dashboard
     <p class="hero-sub">
       Predict unlevered beta using ensemble machine learning models<br>trained on
       financial structure, profitability, operational efficiency, and working
