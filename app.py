@@ -376,7 +376,7 @@ st.markdown("""
   <div class="stat-card">
     <div class="stat-block">
       <div class="stat-label">Model Performance</div>
-      <div class="stat-value">0.69</div>
+      <div class="stat-value">0.71</div>
       <div class="stat-sub">Test R² Score</div>
     </div>
     <div class="stat-divider"></div>
